@@ -7,9 +7,7 @@ Angelo
 
 
 
-//#include "gnuplot-iostream.h"
-
-
+#include "gnuplot-iostream.h"
 #include <iostream>
 #include <random>
 #include <fstream>
